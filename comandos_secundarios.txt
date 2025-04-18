@@ -1,1 +1,2 @@
 alguns comandos secundários
+comandos mais genéricos
